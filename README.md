@@ -13,7 +13,8 @@ Flags:
   -h, --help               help for quality
   -i, --input-bam string   Input bam file (default "stdin")
   -o, --out-bam string     Output bam file (default "stdout")
-  -q, --quality int        Quality cutoff below which bases are masked (default 20)```
+  -q, --quality int        Quality cutoff below which bases are masked (default 20)
+```
 
 Install:
 -------
