@@ -1,5 +1,6 @@
 bammask
 ========
+[![build](https://github.com/fredericlemoine/bammask/actions/workflows/go.yml/badge.svg)](https://github.com/fredericlemoine/bammask/actions)
 
 This tool just reads a bam file and replace bases that are below a given quality threshold by N.
 
