@@ -22,3 +22,6 @@ jobs:
 
     - name: Build
       run: go get . && go build . && go install .
+
+    - name: Test
+      run: bammask -h
