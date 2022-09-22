@@ -24,3 +24,7 @@ Install:
 go get .
 go build .
 ```
+
+New location:
+------------
+The functions are now integrated in https://github.com/fredericlemoine/fastqutils .
